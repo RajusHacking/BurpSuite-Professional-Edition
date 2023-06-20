@@ -11,7 +11,7 @@
   <p dir="auto">1. Open Terminal</p>
   <p dir="auto">1. Enter the directory</p>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
-    <pre> <code><b><span class="pl-c1">cd</span> Downloads</b></code></pre></div>
+    <pre> <code><b><span color='red'>cd</span> Downloads</b></code></pre></div>
 
 <a href='https://youtu.be/j7QnOjrdJUo'> How to install?</a>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
