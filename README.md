@@ -11,12 +11,7 @@
     <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
 </svg>
     </clipboard-copy>
-  </div></div>
-<h2 tabindex="-1" dir="auto"><a id="user-content-haw-to-install-burp-suite-pro-in-windows" class="anchor" aria-hidden="true" href="#haw-to-install-burp-suite-pro-in-windows"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Haw to install Burp suite pro in Windows</h2>
-<p dir="auto"><animated-image data-catalyst="" style="width: 50%;"><a href="https://youtu.be/pxPHIY-_R1s" title="Now in Android: 55" rel="nofollow" data-target="animated-image.originalLink"><img src="https://github.com/devmehedi101/acunetix-13-kali-linux/raw/main/devmehedi101.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://youtu.be/pxPHIY-_R1s" target="_blank">
-          
+  </div></div>   
         <span data-target="animated-image.imageContainer">
             <img data-target="animated-image.replacedImage" alt="devmehedi101.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/devmehedi101/acunetix-13-kali-linux/raw/main/devmehedi101.gif" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="415" height="311"></canvas></span></a>
