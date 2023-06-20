@@ -6,6 +6,10 @@
   <p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
     <pre><code>https://drive.google.com/file/d/1A4aDfkMnF_-7C0hHMZsL4j1B0w3S1cE2/view?usp=sharing</code></pre></p>
 
+  <a href='https://drive.google.com/file/d/1FyvE_UgA-q8-Gcpovwr0fv21ZGUQwwpv/view?usp=sharing' dir="auto">Downloads the Old version</a>
+<p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
+    <pre><code>https://drive.google.com/file/d/1FyvE_UgA-q8-Gcpovwr0fv21ZGUQwwpv/view?usp=sharing</code></pre></p>
+
 # Installation
 
   <p dir="auto">1. Extract the Zip file</p>
