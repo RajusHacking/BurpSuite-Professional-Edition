@@ -45,3 +45,8 @@
   <a href='https://drive.google.com/file/d/1FyvE_UgA-q8-Gcpovwr0fv21ZGUQwwpv/view?usp=sharing' dir="auto">if you get any kind of error you can download the Old version</a>
 <p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
     <pre><code>https://drive.google.com/file/d/1FyvE_UgA-q8-Gcpovwr0fv21ZGUQwwpv/view?usp=sharing</code></pre></p>
+
+
+# Feedback
+
+If you have any feedback, please reach out me at RajusHacking@gmail.com
