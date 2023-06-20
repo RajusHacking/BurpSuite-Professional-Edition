@@ -19,7 +19,7 @@
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>sudo su</b></code></pre></div>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>chmod +x *</b></code></pre></div>
 
-<p dir="auto">5. Install JDK-18</p>
+<p dir="auto">5. Install JDK</p>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>dpkg -i (jdk file name)</b></code></pre></div>
 
 <p dir="auto">6. copy me</p>
@@ -29,7 +29,7 @@
 <p dir="auto">7. copy me</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>update-alternatives --config java</b></code></pre></div>
 
-<p dir="auto">8. Select the option of (JDK-18)</p>
+<p dir="auto">8. Select the option of (JDK)</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>0 or 1 or 2 or 3</b></code></pre></div>
 
 <p dir="auto">9. Run </p>
@@ -38,6 +38,6 @@
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>./burp_pro.sh</b></code></pre></div>
 
 
-<a href='https://youtu.be/j7QnOjrdJUo'> How to install?</a>
+<h2 href='https://youtu.be/6PSOE43kP94'>Watch this video for Config</h2>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
-    <pre><code>https://youtu.be/j7QnOjrdJUo</code></pre></div>
+    <pre><code>https://youtu.be/6PSOE43kP94</code></pre></div>
