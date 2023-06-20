@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1A4aDfkMnF_-7C0hHMZsL4j1B0w3S1cE2/view?usp=shari
     </clipboard-copy>
   </div></div>
 <ol start="3" dir="auto">
-<li>file permutation</li>
+<li>change file permission</li>
 </ol>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>  chmod +x <span class="pl-k">*</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="  chmod +x *" tabindex="0" role="button">
