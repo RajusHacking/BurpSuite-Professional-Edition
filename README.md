@@ -19,23 +19,23 @@
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>sudo su</b></code></pre></div>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>chmod +x *</b></code></pre></div>
 
-<p dir="auto">5. Install JDK</p>
+<p dir="auto">5. Install JDK (if needs)</p>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>dpkg -i (jdk file name)</b></code></pre></div>
 
-<p dir="auto">6. copy me</p>
+<p dir="auto">6. copy me (if needs)</p>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-18/bin/java 1</b></code></pre></div>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk-18/bin/javac 1</b></code></pre></div>
 
-<p dir="auto">7. copy me</p>
+<p dir="auto">7. copy me (if needs)</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>update-alternatives --config java</b></code></pre></div>
 
-<p dir="auto">8. Select the option of (JDK)</p>
+<p dir="auto">8. Select the option of (JDK) (if needs)</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>0 or 1 or 2 or 3</b></code></pre></div>
 
 <p dir="auto">9. Run </p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>./burp_pro.sh</b></code></pre></div>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>java -jar burploader.jar</b></code></pre></div>
 <p dir="auto">or</p>
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>./burp_pro.sh</b></code></pre></div>
 
 
 <h2><a href='https://youtu.be/6PSOE43kP94'>Watch this video for Config</a></h2>
