@@ -34,8 +34,9 @@
 
 <p dir="auto">9. Run </p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>./burp_pro.sh</b></code></pre></div>
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>java -jar burploader.jar</b></code></pre></div>
 <p dir="auto">or</p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>java -jar burploader.jar</b></code></pre></div>
+
 
 
 <h2><a href='https://youtu.be/6PSOE43kP94'>Watch this video for Config</a></h2>
