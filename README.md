@@ -2,7 +2,7 @@
 
 <div align='center'><a href='https://portswigger.net/burp/pro'><img width='500' height='300' src='https://thehackerstuff.com/wp-content/uploads/2022/09/collage-1-scaled.jpg'/></a> </div>
   
-  <a href='https://drive.google.com/file/d/1fFChMjNLoMIRsASwlQS7ztpgwjep9Im9/view?usp=sharing' target='_blank' dir="auto">Download Now</a>
+  <a href='https://drive.google.com/file/d/1fFChMjNLoMIRsASwlQS7ztpgwjep9Im9/view?usp=sharing' target=”_blank”  dir="auto">Download Now</a>
   <p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
     <pre><code>https://drive.google.com/file/d/1fFChMjNLoMIRsASwlQS7ztpgwjep9Im9/view?usp=sharing</code></pre></p>
 
