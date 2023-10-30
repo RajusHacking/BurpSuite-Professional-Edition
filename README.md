@@ -22,6 +22,6 @@
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>sudo su</b></code></pre></div>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>chmod +x *</b></code></pre></div>
 
-<p dir="auto">5. Run </p>
+<p dir="auto">5. Run as Root user</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>./burp_pro.sh</b></code></pre></div>
 <hr>
