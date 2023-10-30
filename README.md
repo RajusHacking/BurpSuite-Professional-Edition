@@ -13,10 +13,10 @@
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>ls</b></code></pre></div>
   
   <p dir="auto">2. Unzip the file </p>
-  <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>unzip BurpSuitePro.zip </b></code></pre></div>
+  <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>unzip FileName.zip </b></code></pre></div>
   
   <p dir="auto">3. Enter the directory</p>
-  <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>cd Burp-suite</b></code></pre></div>
+  <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>cd FileName</b></code></pre></div>
 
 <p dir="auto">4. Change file permission</p>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre> <code><b>sudo su</b></code></pre></div>
